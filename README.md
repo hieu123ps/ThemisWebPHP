@@ -1,2 +1,4 @@
 # ThemisWebPHP
-Cài đặt trên nền XAMPP
+Phần mềm website Themis chấm bài thông qua mạng LAN.
+#Hướng dẫn cài
+- 
